@@ -1,0 +1,3 @@
+torch==2.0.1
+ultralytics==8.0.142
+streamlit==1.27.1
